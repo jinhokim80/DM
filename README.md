@@ -13,6 +13,13 @@
 src="https://www.youtube.com/watch?v=9YxExTSwgPM">
 </iframe>
 
+<div align="center">
+    <iframe width="620" height="315"
+        src="https://www.youtube.com/embed/TDOH-VHfejI">
+    </iframe>
+</div>
+
+
 ### Install Jupyter Lab
 `conda install -c conda-forge jupyterlab`
 
