@@ -1,3 +1,22 @@
+
+# NGS
+## NGS 원리
+* [Introduction to Illumina sequencing](https://www.illumina.com/content/dam/illumina-marketing/documents/products/illumina_sequencing_introduction.pdf)
+* [VIDEO - Illumina sequencing](https://www.youtube.com/watch?v=9YxExTSwgPM)
+* [FASTQ format](https://en.wikipedia.org/wiki/FASTQ_format)
+* [FASTQ](https://databricks.com/blog/2016/05/24/parallelizing-genome-variant-analysis.html)
+* [SAM file format](https://en.wikipedia.org/wiki/SAM_(file_format))
+* [BAM](https://en.wikipedia.org/wiki/Binary_Alignment_Map)
+* [Samtools](https://samtools.github.io/hts-specs/SAMv1.pdf)
+
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=9YxExTSwgPM">
+</iframe>
+
+### Install Jupyter Lab
+`conda install -c conda-forge jupyterlab`
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jinhokim80/DM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
