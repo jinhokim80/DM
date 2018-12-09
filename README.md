@@ -9,13 +9,15 @@
 * [BAM](https://en.wikipedia.org/wiki/Binary_Alignment_Map)
 * [Samtools](https://samtools.github.io/hts-specs/SAMv1.pdf)
 
+<div align="center">
 <iframe width="420" height="315"
 src="https://www.youtube.com/watch?v=9YxExTSwgPM">
 </iframe>
+</div>
 
 <div align="center">
     <iframe width="620" height="315"
-        src="https://www.youtube.com/embed/TDOH-VHfejI">
+        src="https://www.youtube.com/watch?v=9YxExTSwgPM">
     </iframe>
 </div>
 
